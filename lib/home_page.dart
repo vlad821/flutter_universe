@@ -44,7 +44,7 @@ class _HomePageState extends State<HomePage> {
                       items: const [
                         DropdownMenuItem(
                           child: Text(
-                            'Solar System',
+                            'Solar System !',
                             style: TextStyle(
                               fontFamily: 'Avenir',
                               fontSize: 24,
